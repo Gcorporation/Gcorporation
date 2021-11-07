@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gcorporation. I am a Raect JS developer currently working in SunLife Financials (Gurgaon, India).
+- 👋 Hi, I’m @Gcorporation. I am a React JS developer currently working in SunLife Financials (Gurgaon, India).
 - 👀 I’m interested in becoming a full stack developer. I have good knowledge in Front-End technologies like React JS, Angular and Ionic.
 - 🌱 I’m currently learning Node JS and SQL.
 - 💞️ I’m looking to collaborate on Full Stack Projects.
